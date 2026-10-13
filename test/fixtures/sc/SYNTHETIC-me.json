@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://i1.sndcdn.com/avatars-000000000000-abcdef-large.jpg",
+  "city": null,
+  "comments_count": 0,
+  "country_code": "CZ",
+  "created_at": "2019-03-01T10:00:00Z",
+  "creator_subscriptions": [
+    {
+      "product": {
+        "id": "free"
+      }
+    }
+  ],
+  "creator_subscription": {
+    "product": {
+      "id": "free"
+    }
+  },
+  "description": null,
+  "followers_count": 3,
+  "followings_count": 12,
+  "first_name": "",
+  "full_name": "",
+  "groups_count": 0,
+  "id": 987654321,
+  "kind": "user",
+  "last_modified": "2026-09-30T18:00:00Z",
+  "last_name": "",
+  "likes_count": 40,
+  "playlist_likes_count": 2,
+  "permalink": "w2g-test-user",
+  "permalink_url": "https://soundcloud.com/w2g-test-user",
+  "playlist_count": 1,
+  "reposts_count": 0,
+  "track_count": 0,
+  "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A987654321",
+  "urn": "soundcloud:users:987654321",
+  "username": "w2g test user",
+  "verified": false,
+  "visuals": null,
+  "badges": {
+    "pro": false,
+    "creator_mid_tier": false,
+    "pro_unlimited": false,
+    "verified": false
+  },
+  "station_urn": "soundcloud:system-playlists:artist-stations:987654321",
+  "station_permalink": "artist-stations:987654321",
+  "date_of_birth": null,
+  "_synthetic": "SYNTHETIC: hand-built from sourced schema, not a captured response (base = real /users/183 shape; extra /me fields from SoundCloud web bundle Me model + KittyTune Models.kt)",
+  "consumer_subscription": {
+    "product": {
+      "id": "free"
+    }
+  },
+  "primary_email_confirmed": true,
+  "locale": "en",
+  "private_tracks_count": 0,
+  "private_playlists_count": 1,
+  "quota": {
+    "unlimited_upload_quota": false,
+    "upload_seconds_used": 0,
+    "upload_seconds_left": 10800
+  },
+  "default_license": "all-rights-reserved"
+}

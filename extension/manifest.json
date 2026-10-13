@@ -1,0 +1,47 @@
+{
+  "manifest_version": 3,
+  "name": "SoundCloud for w2g",
+  "version": "1.0.0",
+  "description": "Add SoundCloud playlists (Weekly Wave, likes, stations, sets) to w2g.tv rooms and queue tracks from soundcloud.com.",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_title": "SoundCloud for w2g",
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png"
+    }
+  },
+  "background": {
+    "service_worker": "background/main.js",
+    "type": "module"
+  },
+  "permissions": ["storage", "cookies", "scripting"],
+  "host_permissions": [
+    "https://w2g.tv/*",
+    "https://soundcloud.com/*",
+    "https://api-v2.soundcloud.com/*",
+    "https://on.soundcloud.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://w2g.tv/*/room/*", "https://w2g.tv/room/*"],
+      "js": ["shared/sc-url.js", "content/w2g-room.js"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["https://soundcloud.com/*"],
+      "js": ["shared/sc-url.js", "content/soundcloud.js"],
+      "css": ["content/soundcloud.css"],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "incognito": "not_allowed",
+  "minimum_chrome_version": "116"
+}

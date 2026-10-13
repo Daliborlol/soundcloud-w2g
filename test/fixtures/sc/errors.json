@@ -1,0 +1,39 @@
+{
+  "bad_or_missing_client_id": {
+    "status": 401,
+    "body": "",
+    "example": "GET /tracks/293?client_id=invalid..."
+  },
+  "bad_oauth_token_any_endpoint": {
+    "status": 401,
+    "body": "",
+    "example": "GET /tracks/293 with Authorization: OAuth <invalid> (public endpoint!)"
+  },
+  "auth_required_no_token": {
+    "status": 401,
+    "body": "",
+    "example": "GET /me, /me/library/all, /me/play-history/*, /me/system_playlist_likes/urns"
+  },
+  "not_found": {
+    "status": 404,
+    "body": {},
+    "example": "GET /tracks/1; private track without secret token; /resolve of m.soundcloud.com, on.soundcloud.com, /discover, /you/*"
+  },
+  "too_many_ids": {
+    "status": 400,
+    "body": {},
+    "example": "GET /tracks?ids=<51 ids>; also ids= empty or non-numeric"
+  },
+  "datadome_challenge (SOURCED, not observed)": {
+    "status": 403,
+    "body": {
+      "url": "https://geo.captcha-delivery.com/captcha/?initialCid=..."
+    },
+    "example": "web app listens for 403 + responseJSON.url and waits for dd_response_passed"
+  },
+  "rate_limited (SOURCED, not observed)": {
+    "status": 429,
+    "body": null,
+    "example": "yt-dlp: ~600 requests / 10 min; no rate-limit headers seen on 200s"
+  }
+}

@@ -1,0 +1,29 @@
+/* Injected into every soundcloud.com frame together with content/soundcloud.js. The toast UI lives in a
+   shadow root and carries its own styles; this file only covers controls inserted into SoundCloud's DOM. */
+
+/* Room gating: injected controls stay hidden unless a w2g room tab is open (soundcloud.js mirrors the
+   background's room registry as <html data-w2g-room>). */
+html:not([data-w2g-room]) .w2g-add,
+html:not([data-w2g-room]) .w2g-add-menu,
+html:not([data-w2g-room]) .w2g-group {
+  display: none !important;
+}
+
+/* Brief confirmation right after a click, in SoundCloud's "selected" orange. */
+.w2g-add.w2g-sent,
+.w2g-add.w2g-sent:hover {
+  color: var(--special-color, #f50) !important;
+}
+
+/* "Next up" rows reserve exactly 64px (two buttons) for their actions: make room for a third. */
+.queueItemView__actions:has(> .w2g-add) {
+  width: 96px;
+}
+
+/* SoundCloud's narrowest layout (its own 1079px breakpoint) leaves no room for another button in track
+   cards: it would cover their stats. Those cards keep the "Add to w2g" entry in their More menu. */
+@media (max-width: 1079px) {
+  .sound:not(.playlist) .sound__soundActions .w2g-add {
+    display: none;
+  }
+}

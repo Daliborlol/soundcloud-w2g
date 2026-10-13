@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="color-scheme" content="dark">
+  <title>SoundCloud for w2g</title>
+  <link rel="stylesheet" href="popup.css">
+  <script type="module" src="popup.js"></script>
+</head>
+<body>
+  <header class="header">
+    <img class="header__icon" src="../icons/icon-32.png" alt="" width="22" height="22">
+    <h1 class="header__title">SoundCloud for w2g</h1>
+  </header>
+
+  <section class="section" aria-labelledby="rooms-title">
+    <h2 class="section__title" id="rooms-title">Add tracks to</h2>
+    <div class="rooms" id="rooms" aria-labelledby="rooms-title" hidden></div>
+    <div class="empty" id="rooms-empty" hidden>
+      <p class="empty__title">Open a w2g.tv room to start</p>
+      <p class="empty__text">Rooms you open in this browser show up here (not in private windows).</p>
+    </div>
+    <p class="error" id="rooms-error" hidden></p>
+  </section>
+
+  <section class="section" aria-labelledby="sc-title">
+    <h2 class="section__title" id="sc-title">SoundCloud</h2>
+    <div class="status" id="sc-status" aria-live="polite"></div>
+  </section>
+
+  <section class="section" aria-labelledby="settings-title">
+    <h2 class="section__title" id="settings-title">Settings</h2>
+    <label class="setting setting--check">
+      <input type="checkbox" id="skip-previews">
+      <span>Skip Go+ previews <span class="muted">(others would only hear 30&nbsp;s of them)</span></span>
+    </label>
+    <label class="setting setting--number">
+      <span>Ask before adding more than</span>
+      <input type="number" id="confirm-above" min="0" max="10000" step="1" inputmode="numeric">
+      <span>tracks</span>
+    </label>
+    <p class="error" id="settings-error" hidden></p>
+  </section>
+
+  <section class="section section--help" aria-labelledby="help-title">
+    <h2 class="section__title" id="help-title">How to use</h2>
+    <ol class="help">
+      <li>In a w2g room, click the <strong>SoundCloud</strong> button next to the search box to add playlists, Weekly Wave or your likes.</li>
+      <li>On soundcloud.com, click <strong>Add to w2g</strong> next to any track or playlist.</li>
+    </ol>
+  </section>
+</body>
+</html>

@@ -1,0 +1,2819 @@
+{
+  "collection": [
+    {
+      "artwork_url": "https://i1.sndcdn.com/artworks-000024196741-jielb4-large.jpg",
+      "created_at": "2012-05-30T11:25:59Z",
+      "description": "Inspiration for the Ecclesia project. http://soundcloud.com/forss/sets/ecclesia",
+      "duration": 2553495,
+      "embeddable_by": "all",
+      "genre": "Classical",
+      "id": 2050462,
+      "kind": "playlist",
+      "label_name": "",
+      "last_modified": "2016-05-23T10:19:02Z",
+      "license": "all-rights-reserved",
+      "likes_count": 342,
+      "managed_by_feeds": false,
+      "permalink": "ecclesia-inspiration",
+      "permalink_url": "https://soundcloud.com/forss/sets/ecclesia-inspiration",
+      "public": true,
+      "purchase_title": "Get The App",
+      "purchase_url": "http://itunes.com/app/ecclesia",
+      "release_date": null,
+      "reposts_count": 64,
+      "secret_token": null,
+      "sharing": "public",
+      "tag_list": "",
+      "title": "Ecclesia Inspiration",
+      "uri": "https://api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2050462",
+      "user_id": 183,
+      "set_type": "",
+      "is_album": false,
+      "published_at": null,
+      "display_date": "2012-05-30T11:25:59Z",
+      "user": {
+        "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+        "first_name": "Eric",
+        "followers_count": 132116,
+        "full_name": "Eric Quidenus-Wahlforss",
+        "id": 183,
+        "kind": "user",
+        "last_modified": "2023-03-28T16:19:18Z",
+        "last_name": "Quidenus-Wahlforss",
+        "permalink": "forss",
+        "permalink_url": "https://soundcloud.com/forss",
+        "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+        "urn": "soundcloud:users:183",
+        "username": "Forss",
+        "verified": true,
+        "city": null,
+        "country_code": null,
+        "badges": {
+          "pro": false,
+          "creator_mid_tier": false,
+          "pro_unlimited": true,
+          "verified": true
+        },
+        "station_urn": "soundcloud:system-playlists:artist-stations:183",
+        "station_permalink": "artist-stations:183"
+      },
+      "tracks": [
+        {
+          "artwork_url": null,
+          "caption": null,
+          "commentable": true,
+          "comment_count": 10,
+          "created_at": "2011-11-18T01:48:46Z",
+          "description": "",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 445982,
+          "full_duration": 446158,
+          "embeddable_by": "all",
+          "genre": "Choral",
+          "has_downloads_left": false,
+          "id": 28301249,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2023-03-11T18:15:00Z",
+          "license": "all-rights-reserved",
+          "likes_count": 153,
+          "permalink": "1-durufl-introit-and-kyrie",
+          "permalink_url": "https://soundcloud.com/truro-cathedral/1-durufl-introit-and-kyrie",
+          "playback_count": 26517,
+          "public": true,
+          "publisher_metadata": null,
+          "purchase_title": null,
+          "purchase_url": null,
+          "release_date": null,
+          "reposts_count": 14,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "",
+          "title": "Duruflé  Introit and Kyrie",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A28301249",
+          "urn": "soundcloud:tracks:28301249",
+          "user_id": 5670271,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/HsDtfpzKGgtK_m.json",
+          "display_date": "2011-11-18T01:48:46Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301249/50b5351b-b079-458b-8da2-b48f16796b73/stream/hls",
+                "preset": "aac_160k",
+                "duration": 445982,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301249/8e7957bc-1729-4c3f-81bd-0f912225e80e/stream/hls",
+                "preset": "aac_96k",
+                "duration": 445982,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301249/232ba93d-04a2-4012-ab5b-7e9aa0785fda/stream/hls",
+                "preset": "abr_sq",
+                "duration": 445982,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301249/cfd0f279-b307-499e-ac28-40475850567a/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 446158,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301249/cfd0f279-b307-499e-ac28-40475850567a/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 446158,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:28301249",
+          "station_permalink": "track-stations:28301249",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000213946850-f2vva7-large.jpg",
+            "first_name": "Cathedral",
+            "followers_count": 941,
+            "full_name": "Cathedral Choir",
+            "id": 5670271,
+            "kind": "user",
+            "last_modified": "2023-03-22T13:21:17Z",
+            "last_name": "Choir",
+            "permalink": "truro-cathedral",
+            "permalink_url": "https://soundcloud.com/truro-cathedral",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A5670271",
+            "urn": "soundcloud:users:5670271",
+            "username": "Truro Cathedral",
+            "verified": false,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": false
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:5670271",
+            "station_permalink": "artist-stations:5670271"
+          }
+        },
+        {
+          "artwork_url": null,
+          "caption": null,
+          "commentable": true,
+          "comment_count": 7,
+          "created_at": "2011-11-18T01:48:48Z",
+          "description": "",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 186064,
+          "full_duration": 186140,
+          "embeddable_by": "all",
+          "genre": "Choral",
+          "has_downloads_left": false,
+          "id": 28301273,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2023-03-11T18:15:00Z",
+          "license": "all-rights-reserved",
+          "likes_count": 122,
+          "permalink": "21-durufl-in-paradisum",
+          "permalink_url": "https://soundcloud.com/truro-cathedral/21-durufl-in-paradisum",
+          "playback_count": 11755,
+          "public": true,
+          "publisher_metadata": null,
+          "purchase_title": null,
+          "purchase_url": null,
+          "release_date": null,
+          "reposts_count": 16,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "",
+          "title": "Duruflé  In Paradisum",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A28301273",
+          "urn": "soundcloud:tracks:28301273",
+          "user_id": 5670271,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/A3Kxc3USEu4S_m.json",
+          "display_date": "2011-11-18T01:48:48Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301273/df4b15ea-0d0e-44ca-b501-0578afbab4f6/stream/hls",
+                "preset": "aac_160k",
+                "duration": 186064,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301273/e276ae4c-cd7a-4e61-99e0-5458e1dfef9a/stream/hls",
+                "preset": "aac_96k",
+                "duration": 186064,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301273/53f73ed9-a3e0-4301-8a49-f3838894ed62/stream/hls",
+                "preset": "abr_sq",
+                "duration": 186064,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301273/e8790860-d039-490d-ac37-95b8a8077580/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 186140,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301273/e8790860-d039-490d-ac37-95b8a8077580/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 186140,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:28301273",
+          "station_permalink": "track-stations:28301273",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000213946850-f2vva7-large.jpg",
+            "first_name": "Cathedral",
+            "followers_count": 941,
+            "full_name": "Cathedral Choir",
+            "id": 5670271,
+            "kind": "user",
+            "last_modified": "2023-03-22T13:21:17Z",
+            "last_name": "Choir",
+            "permalink": "truro-cathedral",
+            "permalink_url": "https://soundcloud.com/truro-cathedral",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A5670271",
+            "urn": "soundcloud:users:5670271",
+            "username": "Truro Cathedral",
+            "verified": false,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": false
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:5670271",
+            "station_permalink": "artist-stations:5670271"
+          }
+        },
+        {
+          "artwork_url": null,
+          "caption": null,
+          "commentable": true,
+          "comment_count": 0,
+          "created_at": "2011-11-18T01:48:47Z",
+          "description": "",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 199987,
+          "full_duration": 200069,
+          "embeddable_by": "all",
+          "genre": "Choral",
+          "has_downloads_left": false,
+          "id": 28301261,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2023-03-11T18:15:00Z",
+          "license": "all-rights-reserved",
+          "likes_count": 27,
+          "permalink": "10-durufl-sanctus",
+          "permalink_url": "https://soundcloud.com/truro-cathedral/10-durufl-sanctus",
+          "playback_count": 6028,
+          "public": true,
+          "publisher_metadata": null,
+          "purchase_title": null,
+          "purchase_url": null,
+          "release_date": null,
+          "reposts_count": 1,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "",
+          "title": "Duruflé  Sanctus",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A28301261",
+          "urn": "soundcloud:tracks:28301261",
+          "user_id": 5670271,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/kxAIkUAJpTvG_m.json",
+          "display_date": "2011-11-18T01:48:47Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301261/eefd6096-6db6-4568-b08f-48c2699d4922/stream/hls",
+                "preset": "aac_160k",
+                "duration": 199987,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301261/d86885d7-2329-45ab-82d5-e9e4067ade13/stream/hls",
+                "preset": "aac_96k",
+                "duration": 199987,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301261/8178442b-60e1-4ce2-9308-574e4b1a3b86/stream/hls",
+                "preset": "abr_sq",
+                "duration": 199987,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301261/9d8ea761-c9d3-431f-9983-1e11299de773/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 200069,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:28301261/9d8ea761-c9d3-431f-9983-1e11299de773/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 200069,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:28301261",
+          "station_permalink": "track-stations:28301261",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000213946850-f2vva7-large.jpg",
+            "first_name": "Cathedral",
+            "followers_count": 941,
+            "full_name": "Cathedral Choir",
+            "id": 5670271,
+            "kind": "user",
+            "last_modified": "2023-03-22T13:21:17Z",
+            "last_name": "Choir",
+            "permalink": "truro-cathedral",
+            "permalink_url": "https://soundcloud.com/truro-cathedral",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A5670271",
+            "urn": "soundcloud:users:5670271",
+            "username": "Truro Cathedral",
+            "verified": false,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": false
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:5670271",
+            "station_permalink": "artist-stations:5670271"
+          }
+        },
+        {
+          "artwork_url": null,
+          "caption": null,
+          "commentable": true,
+          "comment_count": 3,
+          "created_at": "2010-09-07T10:26:24Z",
+          "description": "",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 207615,
+          "full_duration": 207700,
+          "embeddable_by": "all",
+          "genre": "Baroque Choral",
+          "has_downloads_left": false,
+          "id": 5126382,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2010-09-07T10:30:14Z",
+          "license": "all-rights-reserved",
+          "likes_count": 74,
+          "permalink": "18-faure-sanctus-from-requiem",
+          "permalink_url": "https://soundcloud.com/galway-baroque-singers/18-faure-sanctus-from-requiem",
+          "playback_count": 7830,
+          "public": true,
+          "publisher_metadata": null,
+          "purchase_title": null,
+          "purchase_url": null,
+          "release_date": null,
+          "reposts_count": 8,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "",
+          "title": "Fauré: Requiem - Sanctus (from \"De Anima\")",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A5126382",
+          "urn": "soundcloud:tracks:5126382",
+          "user_id": 1628705,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/nZFsnwhP9S9B_m.json",
+          "display_date": "2010-09-07T10:26:24Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126382/366c34c4-0d89-4f38-8b0a-11383e3bf734/stream/hls",
+                "preset": "aac_160k",
+                "duration": 207615,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126382/7cebeae9-bf4d-4f12-9dc8-7fab4d4b9b3a/stream/hls",
+                "preset": "aac_96k",
+                "duration": 207615,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126382/e1e4fd03-891c-4ae5-842a-bca6c78b4d4f/stream/hls",
+                "preset": "abr_sq",
+                "duration": 207615,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126382/12fabe51-d026-4dd7-9b3f-9579822b92c5/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 207700,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126382/12fabe51-d026-4dd7-9b3f-9579822b92c5/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 207700,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:5126382",
+          "station_permalink": "track-stations:5126382",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+            "first_name": "",
+            "followers_count": 174,
+            "full_name": "",
+            "id": 1628705,
+            "kind": "user",
+            "last_modified": "2010-09-05T23:40:26Z",
+            "last_name": "",
+            "permalink": "galway-baroque-singers",
+            "permalink_url": "https://soundcloud.com/galway-baroque-singers",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1628705",
+            "urn": "soundcloud:users:1628705",
+            "username": "Galway Baroque Singers",
+            "verified": false,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": false,
+              "verified": false
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:1628705",
+            "station_permalink": "artist-stations:1628705"
+          }
+        },
+        {
+          "artwork_url": null,
+          "caption": null,
+          "commentable": true,
+          "comment_count": 4,
+          "created_at": "2010-09-07T10:26:24Z",
+          "description": "",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 230106,
+          "full_duration": 230200,
+          "embeddable_by": "all",
+          "genre": "Baroqque Choral",
+          "has_downloads_left": false,
+          "id": 5126379,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2017-10-15T00:06:39Z",
+          "license": "all-rights-reserved",
+          "likes_count": 226,
+          "permalink": "20-faure-in-paradisum-from-requiem",
+          "permalink_url": "https://soundcloud.com/galway-baroque-singers/20-faure-in-paradisum-from-requiem",
+          "playback_count": 26269,
+          "public": true,
+          "publisher_metadata": null,
+          "purchase_title": null,
+          "purchase_url": null,
+          "release_date": null,
+          "reposts_count": 17,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "",
+          "title": "Fauré: Requiem - In Paradisum (from \"De Anima\")",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A5126379",
+          "urn": "soundcloud:tracks:5126379",
+          "user_id": 1628705,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/UdKp1ckSMh6o_m.json",
+          "display_date": "2010-09-07T10:26:24Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126379/44233ead-4362-46fe-962b-2b5f9403cd39/stream/hls",
+                "preset": "aac_160k",
+                "duration": 230106,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126379/a5ae112a-81d6-4784-bdb2-d7e85f719e66/stream/hls",
+                "preset": "aac_96k",
+                "duration": 230106,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126379/18b95bef-b3df-495f-b93b-ba73c7276940/stream/hls",
+                "preset": "abr_sq",
+                "duration": 230106,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126379/9ed3df12-5447-4df4-abd8-6af411d57bba/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 230200,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:5126379/9ed3df12-5447-4df4-abd8-6af411d57bba/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 230200,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:5126379",
+          "station_permalink": "track-stations:5126379",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+            "first_name": "",
+            "followers_count": 174,
+            "full_name": "",
+            "id": 1628705,
+            "kind": "user",
+            "last_modified": "2010-09-05T23:40:26Z",
+            "last_name": "",
+            "permalink": "galway-baroque-singers",
+            "permalink_url": "https://soundcloud.com/galway-baroque-singers",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1628705",
+            "urn": "soundcloud:users:1628705",
+            "username": "Galway Baroque Singers",
+            "verified": false,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": false,
+              "verified": false
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:1628705",
+            "station_permalink": "artist-stations:1628705"
+          }
+        },
+        {
+          "id": 30370224,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 17523896,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        }
+      ],
+      "track_count": 7
+    },
+    {
+      "artwork_url": "https://i1.sndcdn.com/artworks-000020950238-cses45-large.jpg",
+      "created_at": "2012-04-02T14:34:11Z",
+      "description": "",
+      "duration": 2384498,
+      "embeddable_by": "all",
+      "genre": "Electronic",
+      "id": 1815863,
+      "kind": "playlist",
+      "label_name": "",
+      "last_modified": "2015-10-13T14:05:19Z",
+      "license": "all-rights-reserved",
+      "likes_count": 3085,
+      "managed_by_feeds": false,
+      "permalink": "ecclesia",
+      "permalink_url": "https://soundcloud.com/forss/sets/ecclesia",
+      "public": true,
+      "purchase_title": "Get The App",
+      "purchase_url": "http://forssmusic.com/app",
+      "release_date": "2012-06-12T00:00:00Z",
+      "reposts_count": 552,
+      "secret_token": null,
+      "sharing": "public",
+      "tag_list": "",
+      "title": "Ecclesia",
+      "uri": "https://api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A1815863",
+      "user_id": 183,
+      "set_type": "album",
+      "is_album": true,
+      "published_at": null,
+      "display_date": "2012-04-02T14:34:11Z",
+      "user": {
+        "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+        "first_name": "Eric",
+        "followers_count": 132116,
+        "full_name": "Eric Quidenus-Wahlforss",
+        "id": 183,
+        "kind": "user",
+        "last_modified": "2023-03-28T16:19:18Z",
+        "last_name": "Quidenus-Wahlforss",
+        "permalink": "forss",
+        "permalink_url": "https://soundcloud.com/forss",
+        "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+        "urn": "soundcloud:users:183",
+        "username": "Forss",
+        "verified": true,
+        "city": null,
+        "country_code": null,
+        "badges": {
+          "pro": false,
+          "creator_mid_tier": false,
+          "pro_unlimited": true,
+          "verified": true
+        },
+        "station_urn": "soundcloud:system-playlists:artist-stations:183",
+        "station_permalink": "artist-stations:183"
+      },
+      "tracks": [
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000020950392-nix7yw-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 107,
+          "created_at": "2012-04-02T14:40:38Z",
+          "description": "Introitus from the Ecclesia project.\r\n\r\nProduction: Eric Wahlforss\r\nMixing: Mark Bihler\r\nMastering: Bo Kondren",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 98475,
+          "full_duration": 98519,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": false,
+          "id": 41770793,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2021-11-29T17:04:37Z",
+          "license": "all-rights-reserved",
+          "likes_count": 474,
+          "permalink": "introitus",
+          "permalink_url": "https://soundcloud.com/forss/introitus",
+          "playback_count": 167995,
+          "public": true,
+          "publisher_metadata": {
+            "id": 41770793,
+            "urn": "soundcloud:tracks:41770793",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Eric Wahlforss",
+            "isrc": "TCABG1298295",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": "Get The App",
+          "purchase_url": "http://forssmusic.com/app",
+          "release_date": null,
+          "reposts_count": 49,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "electronic",
+          "title": "Introitus",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A41770793",
+          "urn": "soundcloud:tracks:41770793",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/VG7yEUIYeHjz_m.json",
+          "display_date": "2012-04-02T14:40:38Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41770793/a19af776-8079-436b-b589-8e52902fa85a/stream/hls",
+                "preset": "aac_160k",
+                "duration": 98475,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41770793/3e14bf5d-b0e8-4325-82dd-b5ecc369825f/stream/hls",
+                "preset": "aac_96k",
+                "duration": 98475,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41770793/4ef130ee-bc67-411b-8657-4f2ca8658015/stream/hls",
+                "preset": "abr_sq",
+                "duration": 98475,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41770793/3312ac81-e2d3-4384-8fba-269c836d30a5/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 98519,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41770793/3312ac81-e2d3-4384-8fba-269c836d30a5/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 98519,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:41770793",
+          "station_permalink": "track-stations:41770793",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000020951702-l6ktuj-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 204,
+          "created_at": "2012-04-02T15:07:07Z",
+          "description": "Second piece from the Ecclesia project.\r\n\r\nProduction: Eric Wahlforss\r\nMixing: Mark Bihler\r\nMastering: Bo Kondren",
+          "downloadable": false,
+          "download_count": 1,
+          "duration": 213388,
+          "full_duration": 213475,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": false,
+          "id": 41772991,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2022-06-11T16:23:46Z",
+          "license": "all-rights-reserved",
+          "likes_count": 2300,
+          "permalink": "voca-nomen-tuum",
+          "permalink_url": "https://soundcloud.com/forss/voca-nomen-tuum",
+          "playback_count": 190835,
+          "public": true,
+          "publisher_metadata": {
+            "id": 41772991,
+            "urn": "soundcloud:tracks:41772991",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Eric Wahlforss",
+            "isrc": "TCABG1298296",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": "Get The App",
+          "purchase_url": "http://itunes.com/app/ecclesia",
+          "release_date": null,
+          "reposts_count": 262,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "electronic",
+          "title": "Voca Nomen Tuum",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A41772991",
+          "urn": "soundcloud:tracks:41772991",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/wqKTZjsP8RgG_m.json",
+          "display_date": "2012-04-02T15:07:07Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41772991/af01efe7-20bc-4cd6-829b-173f15e12fb0/stream/hls",
+                "preset": "aac_160k",
+                "duration": 213388,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41772991/5e52844b-3c74-4100-8d0d-33162bbd43b7/stream/hls",
+                "preset": "aac_96k",
+                "duration": 213388,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41772991/f8fd808d-fb62-4c38-9361-f2265370257c/stream/hls",
+                "preset": "abr_sq",
+                "duration": 213388,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41772991/93647fba-6210-47eb-9554-27e3871a3c91/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 213475,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:41772991/93647fba-6210-47eb-9554-27e3871a3c91/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 213475,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:41772991",
+          "station_permalink": "track-stations:41772991",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000021746275-ihlit0-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 73,
+          "created_at": "2012-04-16T14:20:35Z",
+          "description": "Third piece from the Ecclesia project.\r\n\r\nProduction: Eric Wahlforss\r\nMixing: Mark Bihler\r\nMastering: Bo Kondren",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 271537,
+          "full_duration": 271646,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": false,
+          "id": 43314655,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2021-11-29T17:04:38Z",
+          "license": "all-rights-reserved",
+          "likes_count": 655,
+          "permalink": "me-apparo",
+          "permalink_url": "https://soundcloud.com/forss/me-apparo",
+          "playback_count": 87868,
+          "public": true,
+          "publisher_metadata": {
+            "id": 43314655,
+            "urn": "soundcloud:tracks:43314655",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Eric Wahlforss",
+            "isrc": "TCABG1298297",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": "Get The App",
+          "purchase_url": "http://forssmusic.com/app",
+          "release_date": null,
+          "reposts_count": 86,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "",
+          "title": "Me Apparo",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A43314655",
+          "urn": "soundcloud:tracks:43314655",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/SPf1mS635pRt_m.json",
+          "display_date": "2012-04-16T14:20:35Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43314655/af6ddace-07c1-4f92-b56e-c181d159d4f9/stream/hls",
+                "preset": "aac_160k",
+                "duration": 271537,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43314655/1f397f3b-c17c-440f-98ba-22d9a24f4994/stream/hls",
+                "preset": "aac_96k",
+                "duration": 271537,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43314655/df4f7fc7-345c-460b-9066-959e150590b9/stream/hls",
+                "preset": "abr_sq",
+                "duration": 271537,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43314655/c1f9a9d5-9b16-4cf3-98a9-68349005abf5/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 271646,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43314655/c1f9a9d5-9b16-4cf3-98a9-68349005abf5/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 271646,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:43314655",
+          "station_permalink": "track-stations:43314655",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000021746203-4dswua-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 126,
+          "created_at": "2012-04-16T14:29:16Z",
+          "description": "Fourth piece from the Ecclesia project.\r\n\r\nProduction: Eric Wahlforss\r\nMixing: Mark Bihler\r\nMastering: Bo Kondren",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 269630,
+          "full_duration": 269738,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": false,
+          "id": 43315398,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2021-11-29T17:04:38Z",
+          "license": "all-rights-reserved",
+          "likes_count": 1114,
+          "permalink": "in-paradisum",
+          "permalink_url": "https://soundcloud.com/forss/in-paradisum",
+          "playback_count": 117170,
+          "public": true,
+          "publisher_metadata": {
+            "id": 43315398,
+            "urn": "soundcloud:tracks:43315398",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Eric Wahlforss",
+            "isrc": "TCABG1298298",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": "Get The App",
+          "purchase_url": "http://forssmusic.com/app",
+          "release_date": null,
+          "reposts_count": 152,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "",
+          "title": "In Paradisum",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A43315398",
+          "urn": "soundcloud:tracks:43315398",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/TBn2YSCai7DO_m.json",
+          "display_date": "2012-04-16T14:29:16Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43315398/fa3fe2ea-27d3-412d-b1ee-174e2a1bbec4/stream/hls",
+                "preset": "aac_160k",
+                "duration": 269630,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43315398/f6045d61-6676-414e-aa7b-1124c2480ed4/stream/hls",
+                "preset": "aac_96k",
+                "duration": 269630,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43315398/49e5bb51-648a-461d-ac01-facc78cb1984/stream/hls",
+                "preset": "abr_sq",
+                "duration": 269630,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43315398/b3f7e1a4-6846-4562-a9d9-82e6e5f1a169/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 269738,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43315398/b3f7e1a4-6846-4562-a9d9-82e6e5f1a169/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 269738,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:43315398",
+          "station_permalink": "track-stations:43315398",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000023324061-4f2wzs-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 57,
+          "created_at": "2012-05-14T17:47:03Z",
+          "description": "Fifth piece from the Ecclesia project.\r\n\r\nProduction: Eric Wahlforss\r\nMixing: Mark Bihler\r\nMastering: Bo Kondren",
+          "downloadable": false,
+          "download_count": 0,
+          "duration": 340500,
+          "full_duration": 340635,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": false,
+          "id": 46363165,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2019-10-07T15:21:36Z",
+          "license": "all-rights-reserved",
+          "likes_count": 654,
+          "permalink": "diligam",
+          "permalink_url": "https://soundcloud.com/forss/diligam",
+          "playback_count": 50755,
+          "public": true,
+          "publisher_metadata": {
+            "id": 46363165,
+            "urn": "soundcloud:tracks:46363165",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Eric Wahlforss",
+            "isrc": "TCABG1298301",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": "Get The App",
+          "purchase_url": "http://itunes.com/app/ecclesia",
+          "release_date": null,
+          "reposts_count": 97,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "electronic",
+          "title": "Diligam",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A46363165",
+          "urn": "soundcloud:tracks:46363165",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/HuZdpjsOxUSq_m.json",
+          "display_date": "2012-05-14T17:47:03Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:46363165/006ec8c5-ac98-4fb8-a0dc-c8266b9ddb77/stream/hls",
+                "preset": "aac_160k",
+                "duration": 340500,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:46363165/e52b6e04-62d0-4366-9eba-c3fce503cbb6/stream/hls",
+                "preset": "aac_96k",
+                "duration": 340500,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:46363165/012655ba-4276-4a2e-b23a-14fb42367efd/stream/hls",
+                "preset": "abr_sq",
+                "duration": 340500,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:46363165/08c71b6c-0052-455d-828d-dcb0daafe0d0/stream/hls",
+                "preset": "mp3_0_0",
+                "duration": 340635,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:46363165/08c71b6c-0052-455d-828d-dcb0daafe0d0/stream/progressive",
+                "preset": "mp3_0_0",
+                "duration": 340635,
+                "snipped": false,
+                "format": {
+                  "protocol": "progressive",
+                  "mime_type": "audio/mpeg"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": true
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:46363165",
+          "station_permalink": "track-stations:46363165",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "id": 46364310,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 48030532,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 48031525,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 49437906,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 49438146,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        }
+      ],
+      "track_count": 10
+    },
+    {
+      "artwork_url": "https://i1.sndcdn.com/artworks-000000288599-1d4173-large.jpg",
+      "created_at": "2008-05-26T18:41:15Z",
+      "description": "A collection of my remixes",
+      "duration": 1648166,
+      "embeddable_by": "all",
+      "genre": "",
+      "id": 75,
+      "kind": "playlist",
+      "label_name": "",
+      "last_modified": "2009-02-17T15:30:15Z",
+      "license": "all-rights-reserved",
+      "likes_count": 110,
+      "managed_by_feeds": false,
+      "permalink": "remixes-1",
+      "permalink_url": "https://soundcloud.com/forss/sets/remixes-1",
+      "public": true,
+      "purchase_title": null,
+      "purchase_url": "",
+      "release_date": null,
+      "reposts_count": 22,
+      "secret_token": null,
+      "sharing": "public",
+      "tag_list": "",
+      "title": "Remixes",
+      "uri": "https://api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A75",
+      "user_id": 183,
+      "set_type": "",
+      "is_album": false,
+      "published_at": null,
+      "display_date": "2008-05-26T18:41:15Z",
+      "user": {
+        "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+        "first_name": "Eric",
+        "followers_count": 132116,
+        "full_name": "Eric Quidenus-Wahlforss",
+        "id": 183,
+        "kind": "user",
+        "last_modified": "2023-03-28T16:19:18Z",
+        "last_name": "Quidenus-Wahlforss",
+        "permalink": "forss",
+        "permalink_url": "https://soundcloud.com/forss",
+        "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+        "urn": "soundcloud:users:183",
+        "username": "Forss",
+        "verified": true,
+        "city": null,
+        "country_code": null,
+        "badges": {
+          "pro": false,
+          "creator_mid_tier": false,
+          "pro_unlimited": true,
+          "verified": true
+        },
+        "station_urn": "soundcloud:system-playlists:artist-stations:183",
+        "station_permalink": "artist-stations:183"
+      },
+      "tracks": [
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000000000253-5f0b07-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 95,
+          "created_at": "2007-11-10T01:03:27Z",
+          "description": "Released as part of the MPS Reworks compilation in 2004, mps-reworks.com. Thanks Mark Bihler for the nice job on the mix.",
+          "downloadable": true,
+          "download_count": 3107,
+          "duration": 361137,
+          "full_duration": 361090,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 871,
+          "kind": "track",
+          "label_name": "MPS",
+          "last_modified": "2019-06-12T15:06:03Z",
+          "license": "all-rights-reserved",
+          "likes_count": 428,
+          "permalink": "speech-craft-no-sleep-til-dawn-remix-by-forss",
+          "permalink_url": "https://soundcloud.com/forss/speech-craft-no-sleep-til-dawn-remix-by-forss",
+          "playback_count": 41506,
+          "public": true,
+          "publisher_metadata": {
+            "id": 871,
+            "urn": "soundcloud:tracks:871",
+            "artist": "Forss",
+            "contains_music": true,
+            "isrc": "QM8DG1965051"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=31484065&id=31484059&s=143456",
+          "release_date": "2004-01-01T00:00:00Z",
+          "reposts_count": 35,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "jazz",
+          "title": "Speech Craft (No Sleep Til Dawn Remix By Forss)",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A871",
+          "urn": "soundcloud:tracks:871",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/BMUaFqlvHP54_m.json",
+          "display_date": "2007-11-10T01:03:27Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:871/1b818dbe-06d5-4a9d-9c2d-f3930356b0d6/stream/hls",
+                "preset": "aac_160k",
+                "duration": 361137,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:871/bff49653-cdbd-4116-8a60-9c9bab44a69e/stream/hls",
+                "preset": "aac_96k",
+                "duration": 361137,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:871/f2ad1688-4f6c-480d-b7e6-6bb8fdd60536/stream/hls",
+                "preset": "abr_sq",
+                "duration": 361137,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:871",
+          "station_permalink": "track-stations:871",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000067273496-8zmna6-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 62,
+          "created_at": "2007-10-04T10:16:11Z",
+          "description": "Original by Jazzanova",
+          "downloadable": true,
+          "download_count": 2402,
+          "duration": 404003,
+          "full_duration": 403957,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 429,
+          "kind": "track",
+          "label_name": "compost",
+          "last_modified": "2019-06-12T15:06:20Z",
+          "license": "all-rights-reserved",
+          "likes_count": 536,
+          "permalink": "keep-falling-forss-redub",
+          "permalink_url": "https://soundcloud.com/forss/keep-falling-forss-redub",
+          "playback_count": 38353,
+          "public": true,
+          "publisher_metadata": {
+            "id": 429,
+            "urn": "soundcloud:tracks:429",
+            "artist": "Forss",
+            "contains_music": true,
+            "isrc": "QM8DG1965052"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=18283311&id=18283319&s=143456",
+          "release_date": "2003-01-01T00:00:00Z",
+          "reposts_count": 67,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "dub ursularucker",
+          "title": "Keep Falling (Forss redub)",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A429",
+          "urn": "soundcloud:tracks:429",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/YlqOcrdfPhhn_m.json",
+          "display_date": "2007-10-04T10:16:11Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:429/25f5e6b3-ba93-45cd-b099-53efc14d7b34/stream/hls",
+                "preset": "aac_160k",
+                "duration": 404003,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:429/f3d3e20c-0e21-4261-9da3-16ab6b7e44f8/stream/hls",
+                "preset": "aac_96k",
+                "duration": 404003,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:429/a5d52d4a-ae71-41ea-a6dd-305ba50e43a9/stream/hls",
+                "preset": "abr_sq",
+                "duration": 404003,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:429",
+          "station_permalink": "track-stations:429",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000000091159-4f382a-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 38,
+          "created_at": "2008-10-16T18:46:37Z",
+          "description": "My first remix of Slope that was released on a Sonar Kollektiv 12'' in 2002.",
+          "downloadable": true,
+          "download_count": 2367,
+          "duration": 378116,
+          "full_duration": 378017,
+          "embeddable_by": "all",
+          "genre": "Glitch",
+          "has_downloads_left": true,
+          "id": 43118,
+          "kind": "track",
+          "label_name": "Sonar Kollektiv",
+          "last_modified": "2019-06-12T15:03:48Z",
+          "license": "all-rights-reserved",
+          "likes_count": 233,
+          "permalink": "slope-basscheck-remix-forss-mix",
+          "permalink_url": "https://soundcloud.com/forss/slope-basscheck-remix-forss-mix",
+          "playback_count": 18240,
+          "public": true,
+          "publisher_metadata": {
+            "id": 43118,
+            "urn": "soundcloud:tracks:43118",
+            "artist": "Forss",
+            "contains_music": true,
+            "isrc": "QM8DG1965050"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://www.sonarkollektiv.com/releases/SMA6007",
+          "release_date": "2002-11-11T00:00:00Z",
+          "reposts_count": 34,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "clicks cuts house slope",
+          "title": "Slope – Basscheck Remix (Forss Mix)",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A43118",
+          "urn": "soundcloud:tracks:43118",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/7NCRtrNKDjHR_m.json",
+          "display_date": "2008-10-16T18:46:37Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43118/15c928b5-7bc6-4aad-a575-cc3885af27bd/stream/hls",
+                "preset": "aac_160k",
+                "duration": 378116,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43118/f24493f6-3d99-4ac6-adc5-19f7e810cbb4/stream/hls",
+                "preset": "aac_96k",
+                "duration": 378116,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:43118/860e6a87-2384-4241-9324-32bd140cb111/stream/hls",
+                "preset": "abr_sq",
+                "duration": 378116,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:43118",
+          "station_permalink": "track-stations:43118",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000000267013-54fbf0-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 35,
+          "created_at": "2009-02-07T11:26:06Z",
+          "description": "Alternative take remix for Slope's Basscheck",
+          "downloadable": true,
+          "download_count": 1965,
+          "duration": 156806,
+          "full_duration": 156052,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 138234,
+          "kind": "track",
+          "label_name": "",
+          "last_modified": "2019-06-12T15:03:02Z",
+          "license": "all-rights-reserved",
+          "likes_count": 330,
+          "permalink": "slope-basscheck-forss-conservative-mix",
+          "permalink_url": "https://soundcloud.com/forss/slope-basscheck-forss-conservative-mix",
+          "playback_count": 18685,
+          "public": true,
+          "publisher_metadata": {
+            "id": 138234,
+            "urn": "soundcloud:tracks:138234",
+            "artist": "Forss",
+            "contains_music": true,
+            "isrc": "QM8DG1965049"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://www.sonarkollektiv.com/tracks/DE-P96-06-00204",
+          "release_date": "2007-01-29T00:00:00Z",
+          "reposts_count": 51,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "remix",
+          "title": "Slope - Basscheck (Forss Conservative mix)",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A138234",
+          "urn": "soundcloud:tracks:138234",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/0KIG0iGZMTtN_m.json",
+          "display_date": "2009-02-07T11:26:06Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:138234/a52a4351-6a1e-4522-9476-a9500c3b0459/stream/hls",
+                "preset": "aac_160k",
+                "duration": 156806,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:138234/3b469627-bf6e-411e-af56-5756855433c6/stream/hls",
+                "preset": "aac_96k",
+                "duration": 156806,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:138234/421c31ec-f628-46fe-8ab0-f20937c74e3e/stream/hls",
+                "preset": "abr_sq",
+                "duration": 156806,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:138234",
+          "station_permalink": "track-stations:138234",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        }
+      ],
+      "track_count": 4
+    },
+    {
+      "artwork_url": "https://i1.sndcdn.com/artworks-000067273270-uinyvw-large.jpg",
+      "created_at": "2008-04-30T01:21:15Z",
+      "description": "My 2003 debut album made on the road with a laptop and fake tickets.",
+      "duration": 3247119,
+      "embeddable_by": "all",
+      "genre": "Electronic",
+      "id": 18,
+      "kind": "playlist",
+      "label_name": "sonarkollektiv",
+      "last_modified": "2021-07-21T10:53:42Z",
+      "license": "all-rights-reserved",
+      "likes_count": 1582,
+      "managed_by_feeds": false,
+      "permalink": "soulhack",
+      "permalink_url": "https://soundcloud.com/forss/sets/soulhack",
+      "public": true,
+      "purchase_title": null,
+      "purchase_url": "http://www.sonarkollektiv.com/releases/SK006CD",
+      "release_date": "2003-06-02T00:00:00Z",
+      "reposts_count": 258,
+      "secret_token": null,
+      "sharing": "public",
+      "tag_list": "downtempo sampling beats",
+      "title": "Soulhack",
+      "uri": "https://api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A18",
+      "user_id": 183,
+      "set_type": "album",
+      "is_album": true,
+      "published_at": null,
+      "display_date": "2008-04-30T01:21:15Z",
+      "user": {
+        "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+        "first_name": "Eric",
+        "followers_count": 132116,
+        "full_name": "Eric Quidenus-Wahlforss",
+        "id": 183,
+        "kind": "user",
+        "last_modified": "2023-03-28T16:19:18Z",
+        "last_name": "Quidenus-Wahlforss",
+        "permalink": "forss",
+        "permalink_url": "https://soundcloud.com/forss",
+        "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+        "urn": "soundcloud:users:183",
+        "username": "Forss",
+        "verified": true,
+        "city": null,
+        "country_code": null,
+        "badges": {
+          "pro": false,
+          "creator_mid_tier": false,
+          "pro_unlimited": true,
+          "verified": true
+        },
+        "station_urn": "soundcloud:system-playlists:artist-stations:183",
+        "station_permalink": "artist-stations:183"
+      },
+      "tracks": [
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000067273298-mjh4vb-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 92,
+          "created_at": "2007-09-22T14:24:38Z",
+          "description": "Intro from the Soulhack Album, originally created for a short movie.",
+          "downloadable": true,
+          "download_count": 6970,
+          "duration": 142233,
+          "full_duration": 142236,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 290,
+          "kind": "track",
+          "label_name": "sonarkollektiv",
+          "last_modified": "2022-07-11T10:55:58Z",
+          "license": "all-rights-reserved",
+          "likes_count": 344,
+          "permalink": "city-ports",
+          "permalink_url": "https://soundcloud.com/forss/city-ports",
+          "playback_count": 262040,
+          "public": true,
+          "publisher_metadata": {
+            "id": 290,
+            "urn": "soundcloud:tracks:290",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Universal Music Publishing",
+            "isrc": "DEP960300040",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://sonarkollektiv.com/tracks/DE-P96-03-00040",
+          "release_date": "2003-06-02T00:00:00Z",
+          "reposts_count": 31,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "cinematic intro",
+          "title": "City Ports",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A290",
+          "urn": "soundcloud:tracks:290",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/UiLhla0Ho0Ad_m.json",
+          "display_date": "2007-09-22T14:24:38Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:290/526a0fc0-1b3f-4ea4-8a5a-594a9f04c883/stream/hls",
+                "preset": "aac_160k",
+                "duration": 142233,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:290/e32869e4-46ab-46cb-b8ce-81d68638bb04/stream/hls",
+                "preset": "aac_96k",
+                "duration": 142233,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:290/dba73ca5-a437-42ae-8156-a2e988e1c843/stream/hls",
+                "preset": "abr_sq",
+                "duration": 142233,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:290",
+          "station_permalink": "track-stations:290",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000067273301-we78rq-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 164,
+          "created_at": "2007-09-22T14:32:59Z",
+          "description": "From the Soulhack album",
+          "downloadable": true,
+          "download_count": 7369,
+          "duration": 274459,
+          "full_duration": 274442,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 291,
+          "kind": "track",
+          "label_name": "sonarkollektiv",
+          "last_modified": "2022-05-07T07:15:40Z",
+          "license": "all-rights-reserved",
+          "likes_count": 1136,
+          "permalink": "soulhack",
+          "permalink_url": "https://soundcloud.com/forss/soulhack",
+          "playback_count": 289117,
+          "public": true,
+          "publisher_metadata": {
+            "id": 291,
+            "urn": "soundcloud:tracks:291",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Universal Music Publishing",
+            "isrc": "DEP960201001",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://sonarkollektiv.com/tracks/DE-P96-02-01001",
+          "release_date": "2003-06-02T00:00:00Z",
+          "reposts_count": 84,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "jazz",
+          "title": "Soulhack",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A291",
+          "urn": "soundcloud:tracks:291",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/AqFIRCAP7Arw_m.json",
+          "display_date": "2007-09-22T14:32:59Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:291/d2a8b947-5fb4-486b-9221-fd181744509c/stream/hls",
+                "preset": "aac_160k",
+                "duration": 274459,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:291/e2606aa5-8b7c-4e71-aeac-6891a8593c6f/stream/hls",
+                "preset": "aac_96k",
+                "duration": 274459,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:291/aafefab2-aa8c-4faa-bd77-30f43339f7ee/stream/hls",
+                "preset": "abr_sq",
+                "duration": 274459,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:291",
+          "station_permalink": "track-stations:291",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000067273305-sndpvm-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 62,
+          "created_at": "2007-09-22T14:41:54Z",
+          "description": "From the Soulhack album",
+          "downloadable": true,
+          "download_count": 4003,
+          "duration": 463926,
+          "full_duration": 463908,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 292,
+          "kind": "track",
+          "label_name": "sonarkollektiv",
+          "last_modified": "2022-02-06T00:03:35Z",
+          "license": "all-rights-reserved",
+          "likes_count": 620,
+          "permalink": "funk-for-nerds",
+          "permalink_url": "https://soundcloud.com/forss/funk-for-nerds",
+          "playback_count": 236277,
+          "public": true,
+          "publisher_metadata": {
+            "id": 292,
+            "urn": "soundcloud:tracks:292",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Universal Music Publishing",
+            "isrc": "DEP960300041",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://sonarkollektiv.com/tracks/DE-P96-03-00041",
+          "release_date": "2003-06-02T00:00:00Z",
+          "reposts_count": 60,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "jazz",
+          "title": "Funk for Nerds",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A292",
+          "urn": "soundcloud:tracks:292",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/EsdplDAYufuQ_m.json",
+          "display_date": "2007-09-22T14:41:54Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:292/51390de3-8a92-4dc4-a07a-4351af7c3975/stream/hls",
+                "preset": "aac_160k",
+                "duration": 463926,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:292/4cf18029-6c97-44e9-956c-b434a43f2ece/stream/hls",
+                "preset": "aac_96k",
+                "duration": 463926,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:292/d32451d2-7fb0-4147-9bdc-c08f54bb5c53/stream/hls",
+                "preset": "abr_sq",
+                "duration": 463926,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:292",
+          "station_permalink": "track-stations:292",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000067273316-smsiqx-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 399,
+          "created_at": "2007-09-22T14:45:46Z",
+          "description": "From the Soulhack album,&nbsp;recently featured in this ad <a href=\"https://www.dswshoes.com/tv_commercial.jsp?m=october2007\">https://www.dswshoes.com/tv_commercial.jsp?m=october2007</a> ",
+          "downloadable": true,
+          "download_count": 19993,
+          "duration": 213886,
+          "full_duration": 213890,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 293,
+          "kind": "track",
+          "label_name": "sonarkollektiv",
+          "last_modified": "2022-07-11T10:55:58Z",
+          "license": "all-rights-reserved",
+          "likes_count": 2616,
+          "permalink": "flickermood",
+          "permalink_url": "https://soundcloud.com/forss/flickermood",
+          "playback_count": 970582,
+          "public": true,
+          "publisher_metadata": {
+            "id": 293,
+            "urn": "soundcloud:tracks:293",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Universal Music Publishing",
+            "isrc": "DEP960300042",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://sonarkollektiv.com/tracks/DE-P96-03-00042",
+          "release_date": "2003-06-02T00:00:00Z",
+          "reposts_count": 413,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "downtempo",
+          "title": "Flickermood",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A293",
+          "urn": "soundcloud:tracks:293",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/cWHNerOLlkUq_m.json",
+          "display_date": "2007-09-22T14:45:46Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:293/fa250033-f3ae-45f5-a97d-5f743bced495/stream/hls",
+                "preset": "aac_160k",
+                "duration": 213886,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:293/f5da7ef8-a128-4514-8fa8-e178ceea2814/stream/hls",
+                "preset": "aac_96k",
+                "duration": 213886,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:293/302dc7fe-8690-4478-81b7-af8456d0fd6f/stream/hls",
+                "preset": "abr_sq",
+                "duration": 213886,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:293",
+          "station_permalink": "track-stations:293",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "artwork_url": "https://i1.sndcdn.com/artworks-000067273321-fasi2k-large.jpg",
+          "caption": null,
+          "commentable": true,
+          "comment_count": 30,
+          "created_at": "2007-09-22T15:00:17Z",
+          "description": "From the Soulhack album",
+          "downloadable": true,
+          "download_count": 3207,
+          "duration": 291406,
+          "full_duration": 291395,
+          "embeddable_by": "all",
+          "genre": "Electronic",
+          "has_downloads_left": true,
+          "id": 294,
+          "kind": "track",
+          "label_name": "sonarkollektiv",
+          "last_modified": "2022-07-11T10:55:58Z",
+          "license": "all-rights-reserved",
+          "likes_count": 298,
+          "permalink": "using-splashes",
+          "permalink_url": "https://soundcloud.com/forss/using-splashes",
+          "playback_count": 202912,
+          "public": true,
+          "publisher_metadata": {
+            "id": 294,
+            "urn": "soundcloud:tracks:294",
+            "artist": "Forss",
+            "contains_music": true,
+            "publisher": "Universal Music Publishing",
+            "isrc": "DEP960300002",
+            "writer_composer": "Eric Wahlforss"
+          },
+          "purchase_title": null,
+          "purchase_url": "http://sonarkollektiv.com/tracks/DE-P96-03-00002",
+          "release_date": "2003-06-02T00:00:00Z",
+          "reposts_count": 26,
+          "secret_token": null,
+          "sharing": "public",
+          "state": "finished",
+          "streamable": true,
+          "tag_list": "samples",
+          "title": "Using Splashes",
+          "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A294",
+          "urn": "soundcloud:tracks:294",
+          "user_id": 183,
+          "visuals": null,
+          "waveform_url": "https://wave.sndcdn.com/hrNkZJd9Tjx4_m.json",
+          "display_date": "2007-09-22T15:00:17Z",
+          "media": {
+            "transcodings": [
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:294/4dbb4654-5666-4e3f-a343-5ee98ea380e1/stream/hls",
+                "preset": "aac_160k",
+                "duration": 291406,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:294/53b8e051-6c9b-4b47-9486-77ae2ff3de96/stream/hls",
+                "preset": "aac_96k",
+                "duration": 291406,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                },
+                "quality": "lq",
+                "is_legacy_transcoding": false
+              },
+              {
+                "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:294/c0e511c2-08e3-4c7b-b2d6-da28fa46cf4c/stream/hls",
+                "preset": "abr_sq",
+                "duration": 291406,
+                "snipped": false,
+                "format": {
+                  "protocol": "hls",
+                  "mime_type": "audio/mpegurl"
+                },
+                "quality": "sq",
+                "is_legacy_transcoding": false
+              }
+            ]
+          },
+          "station_urn": "soundcloud:system-playlists:track-stations:294",
+          "station_permalink": "track-stations:294",
+          "track_authorization": "REDACTED",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW",
+          "user": {
+            "avatar_url": "https://i1.sndcdn.com/avatars-000012778523-59quu3-large.jpg",
+            "first_name": "Eric",
+            "followers_count": 132116,
+            "full_name": "Eric Quidenus-Wahlforss",
+            "id": 183,
+            "kind": "user",
+            "last_modified": "2023-03-28T16:19:18Z",
+            "last_name": "Quidenus-Wahlforss",
+            "permalink": "forss",
+            "permalink_url": "https://soundcloud.com/forss",
+            "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A183",
+            "urn": "soundcloud:users:183",
+            "username": "Forss",
+            "verified": true,
+            "city": null,
+            "country_code": null,
+            "badges": {
+              "pro": false,
+              "creator_mid_tier": false,
+              "pro_unlimited": true,
+              "verified": true
+            },
+            "station_urn": "soundcloud:system-playlists:artist-stations:183",
+            "station_permalink": "artist-stations:183"
+          }
+        },
+        {
+          "id": 295,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 296,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 297,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 298,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 299,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        },
+        {
+          "id": 300,
+          "kind": "track",
+          "monetization_model": "NOT_APPLICABLE",
+          "policy": "ALLOW"
+        }
+      ],
+      "track_count": 11
+    }
+  ],
+  "next_href": null,
+  "query_urn": null
+}

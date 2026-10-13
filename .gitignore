@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.zip
+*.crx
+*.pem
+.DS_Store
+
+# test artifacts
+test-results/
+playwright-report/
+.e2e-profile*/

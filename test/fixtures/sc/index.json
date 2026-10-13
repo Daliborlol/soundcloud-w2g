@@ -1,0 +1,268 @@
+[
+  {
+    "file": "resolve-track-public.json",
+    "type": "REAL",
+    "request": "GET /resolve?url=https://soundcloud.com/forss/flickermood",
+    "status": 200,
+    "notes": "captured 2026-10-13 anonymously (client_id omitted), geo CZ; full track object (policy ALLOW, embeddable_by all)"
+  },
+  {
+    "file": "resolve-user.json",
+    "type": "REAL",
+    "request": "GET /resolve?url=https://soundcloud.com/forss/sets",
+    "status": 200,
+    "notes": "/<user>/sets, /<user>/likes, /<user>/tracks all resolve to the USER object; the client must keep the sub-page itself"
+  },
+  {
+    "file": "user-full.json",
+    "type": "REAL",
+    "request": "GET /users/183",
+    "status": 200,
+    "notes": "captured 2026-10-13 anonymously (client_id omitted), geo CZ"
+  },
+  {
+    "file": "resolve-playlist-public-soulhack.json",
+    "type": "REAL",
+    "request": "GET /resolve?url=https://soundcloud.com/forss/sets/soulhack",
+    "status": 200,
+    "notes": "11 tracks: first 5 hydrated, last 6 are stubs {id,kind,monetization_model,policy}"
+  },
+  {
+    "file": "tracks-ids-soulhack-stubs.json",
+    "type": "REAL",
+    "request": "GET /tracks?ids=295,296,297,298,299,300",
+    "status": 200,
+    "notes": "response ORDER IS ARBITRARY ([300,297,298,296,299,295]); re-order by id"
+  },
+  {
+    "file": "playlist-100-tracks.json",
+    "type": "REAL",
+    "request": "GET /playlists/729308781",
+    "status": 200,
+    "notes": "100 tracks, 5 hydrated + 95 stubs -> needs 2 /tracks batches (50 + 45)"
+  },
+  {
+    "file": "tracks-ids-batch1-50.json",
+    "type": "REAL",
+    "request": "GET /tracks?ids=<stub ids 1-50 of playlist 729308781>",
+    "status": 200,
+    "notes": "50 = max ids per request; 51 -> HTTP 400 {}"
+  },
+  {
+    "file": "tracks-ids-batch2-45.json",
+    "type": "REAL",
+    "request": "GET /tracks?ids=<stub ids 51-95 of playlist 729308781>",
+    "status": 200,
+    "notes": ""
+  },
+  {
+    "file": "resolve-system-playlist-track-station.json",
+    "type": "REAL",
+    "request": "GET /resolve?url=https://soundcloud.com/discover/sets/track-stations:293",
+    "status": 200,
+    "notes": "identical body from GET /system-playlists/soundcloud:system-playlists:track-stations:293; 46 stub tracks, playlist_type TRACK_STATION"
+  },
+  {
+    "file": "system-playlist-artist-station.json",
+    "type": "REAL",
+    "request": "GET /resolve?url=https://soundcloud.com/discover/sets/artist-stations:183",
+    "status": 200,
+    "notes": "playlist_type ARTIST_STATION, 46 stubs"
+  },
+  {
+    "file": "system-playlist-trending-by-genre.json",
+    "type": "REAL",
+    "request": "GET /system-playlists/soundcloud:system-playlists:trending-by-genre:all-genres",
+    "status": 200,
+    "notes": "REAL non-station system playlist (playlist_type PLAYLIST) - closest real analogue of Weekly Wave / Daily Drops; 50 stubs"
+  },
+  {
+    "file": "tracks-ids-station-hydration.json",
+    "type": "REAL",
+    "request": "GET /tracks?ids=<46 ids of track-stations:293>",
+    "status": 200,
+    "notes": ""
+  },
+  {
+    "file": "resolve-legacy-station.json",
+    "type": "REAL",
+    "request": "GET /resolve?url=https://soundcloud.com/stations/track/forss/flickermood",
+    "status": 200,
+    "notes": "legacy kind \"station\"; map via system_playlist_permalink -> /system-playlists/soundcloud:system-playlists:<permalink>"
+  },
+  {
+    "file": "mixed-selections-anonymous.json",
+    "type": "REAL",
+    "request": "GET /mixed-selections?limit=10&offset=0&linked_partitioning=1",
+    "status": 200,
+    "notes": "anonymous home shelves; logged-in response adds personal shelves (\"Made for you\" etc.); system-playlist items carry stub tracks"
+  },
+  {
+    "file": "user-track-likes-p1.json",
+    "type": "REAL",
+    "request": "GET /users/183/track_likes?limit=20&offset=0&linked_partitioning=1",
+    "status": 200,
+    "notes": "next_href is set and has NO client_id; cursor offset is \"<date>,user-track-likes,<ids>\""
+  },
+  {
+    "file": "user-track-likes-p2.json",
+    "type": "REAL",
+    "request": "GET <next_href of p1>&client_id=...",
+    "status": 200,
+    "notes": "16 items although limit=20: unavailable tracks are filtered server-side AFTER paging; keep following next_href"
+  },
+  {
+    "file": "user-likes-mixed-p1.json",
+    "type": "REAL",
+    "request": "GET /users/183/likes?limit=10&offset=0&linked_partitioning=1",
+    "status": 200,
+    "notes": "items are {created_at,kind:\"like\",track} or {created_at,kind:\"like\",playlist}; playlist likes carry no tracks array"
+  },
+  {
+    "file": "user-likes-last-page-empty.json",
+    "type": "REAL",
+    "request": "GET /users/11817582/likes?offset=...&limit=10 (next_href of a 7-item first page)",
+    "status": 200,
+    "notes": "a first page with 7/10 items still had next_href; this follow-up page is empty with next_href null"
+  },
+  {
+    "file": "user-playlists-without-albums.json",
+    "type": "REAL",
+    "request": "GET /users/183/playlists_without_albums?limit=10&offset=0&linked_partitioning=1",
+    "status": 200,
+    "notes": "each playlist includes tracks[] (first 5 hydrated)"
+  },
+  {
+    "file": "user-playlists.json",
+    "type": "REAL",
+    "request": "GET /users/183/playlists?limit=10&offset=0&linked_partitioning=1",
+    "status": 200,
+    "notes": "playlists + albums"
+  },
+  {
+    "file": "user-albums.json",
+    "type": "REAL",
+    "request": "GET /users/183/albums?limit=10&offset=0&linked_partitioning=1",
+    "status": 200,
+    "notes": ""
+  },
+  {
+    "file": "user-playlist-likes.json",
+    "type": "REAL",
+    "request": "GET /users/183/playlist_likes?limit=10&offset=0&linked_partitioning=1",
+    "status": 200,
+    "notes": "{created_at,kind:\"like\",playlist}; per sources liked system playlists appear here as {system_playlist}"
+  },
+  {
+    "file": "user-tracks-p1.json",
+    "type": "REAL",
+    "request": "GET /users/183/tracks?limit=5&linked_partitioning=1",
+    "status": 200,
+    "notes": "full tracks; 4 returned for limit=5 (filtering)"
+  },
+  {
+    "file": "user-toptracks.json",
+    "type": "REAL",
+    "request": "GET /users/183/toptracks?limit=5&linked_partitioning=1",
+    "status": 200,
+    "notes": "limit ignored here (26 returned), next_href null"
+  },
+  {
+    "file": "resolve-track-private-secret.json",
+    "type": "REAL",
+    "request": "GET /resolve?url=https://soundcloud.com/jaimemf/youtube-dl-test-video-a-y-baw/s-8Pjrp",
+    "status": 200,
+    "notes": "sharing private; permalink_url ALREADY ends with /s-8Pjrp; uri carries ?secret_token=; without token -> 404 {}"
+  },
+  {
+    "file": "playlist-private-secret.json",
+    "type": "REAL",
+    "request": "GET /playlists/922213810?secret_token=s-ziYey",
+    "status": 200,
+    "notes": "private set with 4 private tracks, each with its OWN secret_token; same body via /resolve of .../sets/<slug>/s-ziYey"
+  },
+  {
+    "file": "tracks-ids-private-with-playlist-context.json",
+    "type": "REAL",
+    "request": "GET /tracks?ids=711636088,711636064,711636043,711636025&playlistId=922213810&playlistSecretToken=s-ziYey",
+    "status": 200,
+    "notes": "without playlistId/playlistSecretToken the same request returns [] (private tracks silently dropped)"
+  },
+  {
+    "file": "tracks-ids-private-without-context.json",
+    "type": "REAL",
+    "request": "GET /tracks?ids=711636088,711636064,711636043,711636025",
+    "status": 200,
+    "notes": "[]"
+  },
+  {
+    "file": "tracks-ids-missing-and-duplicate.json",
+    "type": "REAL",
+    "request": "GET /tracks?ids=293,1,293,99999999999,2394469404",
+    "status": 200,
+    "notes": "unknown ids dropped, duplicates collapsed, no error"
+  },
+  {
+    "file": "tracks-problem-cases.json",
+    "type": "REAL",
+    "request": "(subset of /users/183/track_likes items + /resolve flickermood)",
+    "status": 200,
+    "notes": "265924673: BLOCK (geo-blocked in CZ; widget: \"This track is not available in your country.\"); 252610610: SNIP (Go+ preview; duration 30000 vs full_duration 254011; widget plays 30 s then FINISH); 1843921: streamable false + embeddable_by none (widget: \"Oops, we couldn't find that track.\"); 932780: embeddable_by me (widget still played it in our test); 293: control: ALLOW / streamable / embeddable_by all"
+  },
+  {
+    "file": "errors.json",
+    "type": "REAL (statuses/bodies observed; 403/429 sourced)",
+    "request": "various",
+    "status": 200,
+    "notes": ""
+  },
+  {
+    "file": "soundcloud-home-excerpt.html",
+    "type": "REAL (trimmed)",
+    "request": "GET https://soundcloud.com/",
+    "status": 200,
+    "notes": "hydration apiClient {id,isExpiring}; bundle 55-*.js contains client_id:\"O4KAW11rMMnH5modEfDHOdzmnuvsck9X\""
+  },
+  {
+    "file": "SYNTHETIC-me.json",
+    "type": "SYNTHETIC",
+    "request": "GET /me (Authorization: OAuth <token>)",
+    "status": 200,
+    "notes": "anonymous -> 401 empty body (verified). Only id/username/permalink/permalink_url are needed by the client"
+  },
+  {
+    "file": "SYNTHETIC-system-playlist-weekly-wave.json",
+    "type": "SYNTHETIC",
+    "request": "GET /resolve?url=https://soundcloud.com/discover/sets/weekly::w2g-test-user  (or /discover/sets/weekly, or /system-playlists/<urn>) with OAuth",
+    "status": 200,
+    "notes": "anonymous -> 404 {} (verified for weekly::forss and discover/sets/weekly)"
+  },
+  {
+    "file": "SYNTHETIC-system-playlist-daily-drops.json",
+    "type": "SYNTHETIC",
+    "request": "GET /system-playlists/<urn from mixed-selections> with OAuth",
+    "status": 200,
+    "notes": ""
+  },
+  {
+    "file": "SYNTHETIC-mixed-selections-logged-in.json",
+    "type": "SYNTHETIC",
+    "request": "GET /mixed-selections?limit=10 with OAuth",
+    "status": 200,
+    "notes": ""
+  },
+  {
+    "file": "SYNTHETIC-me-library-all.json",
+    "type": "SYNTHETIC",
+    "request": "GET /me/library/all?limit=50&offset=0&linked_partitioning=1 with OAuth",
+    "status": 200,
+    "notes": "anonymous -> 401 (verified). Weekly Wave/Daily Drops only appear here if the user LIKED them; otherwise use /mixed-selections"
+  },
+  {
+    "file": "SYNTHETIC-me-play-history-contexts.json",
+    "type": "SYNTHETIC",
+    "request": "GET /me/play-history/contexts?limit=25 with OAuth",
+    "status": 200,
+    "notes": ""
+  }
+]

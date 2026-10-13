@@ -1,0 +1,16 @@
+{
+  "name": "soundcloud-w2g",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser extension that adds SoundCloud playlist support (incl. Weekly Wave) to w2g.tv rooms",
+  "type": "module",
+  "scripts": {
+    "test": "node --test 'test/unit/*.test.mjs'",
+    "test:e2e": "node --test --test-concurrency=1 'test/e2e/*.e2e.mjs'",
+    "test:e2e:brave": "BROWSER=brave node --test --test-concurrency=1 'test/e2e/*.e2e.mjs'",
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.64.0"
+  }
+}
